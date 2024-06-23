@@ -14,7 +14,7 @@ This repository contains code for the NeurIPS 2022 competition on multimodal sin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/multimodal_single_cell_integration.git
+    git clone https://github.com/turatsinzejunior83/multimodal_single_cell_integration.git
     cd multimodal_single_cell_integration
     ```
 
